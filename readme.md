@@ -179,8 +179,4 @@ The dataset contains weekly sales records with the following columns:
 - New products or sales data can be added to the `data/` folder and rerun through the pipeline.
 - Modeling scripts can be adapted for other time series forecasting tasks.
 
-## 📬 Contact
 
-For any questions or clarifications, please refer to the comments in the notebooks or contact the project maintainer.
-
-**End of Documentation**
